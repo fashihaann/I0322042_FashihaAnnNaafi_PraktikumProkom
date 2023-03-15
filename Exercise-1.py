@@ -1,0 +1,2 @@
+print("Nama saya Fashiha. Nim saya I0322042. Saya tinggal di Karanganyar. rumah saya hanya sepuluh menit dari kampus. Di dekat rumah saya terdapat alfa midi, disana ada Lawson. Ketika pagi hari, terkadang suhu di daerah rumah saya dingin, membuat malas bangun tidur. Ada satu coffee shop yang murah di dekat rumah, saya sering nugas disitu.")
+print("Saya seorang mahasiswi Teknik Industri. Setelah lulus dari Teknik Industri saya berharap bisa menerapkan ilmu yang saya dapat untuk kehidupan saya dan juga menjadi kebermanfaatan bagi orang lain.")
